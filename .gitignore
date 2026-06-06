@@ -1,0 +1,18 @@
+#Libraries and Packages
+Lib
+
+#Scripts
+Scripts
+
+#Frontend Tools Manual
+share
+
+#Configuration file for virtual environment
+pyvenv.cfg 
+
+#Zipfile for all text files
+txt.zip 
+
+#Cache Files
+__pycache__
+
