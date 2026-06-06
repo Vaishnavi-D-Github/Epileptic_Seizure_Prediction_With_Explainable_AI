@@ -16,3 +16,7 @@ txt.zip
 #Cache Files
 __pycache__
 
+#Models
+models/
+*.keras
+*.h5
